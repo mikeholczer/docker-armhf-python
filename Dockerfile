@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM mikeholczer/debian
+FROM mikeholczer/debian:jessie
 
 # Install Python.
 RUN \
