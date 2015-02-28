@@ -1,11 +1,11 @@
 #
 # Python Dockerfile
 #
-# https://github.com/dockerfile/python
+# based on https://github.com/dockerfile/python
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM mikeholczer/debian
 
 # Install Python.
 RUN \
