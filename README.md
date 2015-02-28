@@ -11,7 +11,7 @@ This repository contains **Dockerfile** of [Python](https://www.python.org/) for
 
 ### Installation
 
-1. Install [Docker](https://www.docker.com/).
+1. Install [Docker](https://www.docker.com/). (I need to provide more detail about getting it running on raspberry pi 2)
 
 2. Download [image](https://registry.hub.docker.com/u/mikeholczer/docker-armhf-python/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull mikeholczer/docker-armhf-python`
 
